@@ -1,0 +1,6 @@
+flask
+flask-cors
+torch
+transformers
+fitz
+numpy==1.21
