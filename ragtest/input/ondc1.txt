@@ -1,0 +1,204 @@
+See discussions stats and author profiles for this publication at httpswwwresearchgatenetpublication363894211
+An overview on open network for digital Commerce 
+Article  September 2022
+CITATIONS
+0
+READS
+2598
+2 authors
+Muskan from BCom Honours Business Analytics
+Bhavans Vivekananda College of Science Humanities  Commerce
+1 PUBLICATION   0 CITATIONS   
+SEE PROFILE
+P R Venugopal
+Bhavans Vivekananda College of Science Humanities  Commerce
+18 PUBLICATIONS   6 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by P R Venugopal on 28 September 2022
+The user has requested enhancement of the downloaded file
+ 2022 JETIR September 2022 Volume 9 Issue 9                                      wwwjetirorg ISSN23495162 
+JETIR220938
+3
+Journal of Emerging Technologies and Innovative Research JETIR wwwjetirorg 
+d328 
+ 
+An overview on open network for digital 
+commerce 
+1 
+PR Venugopal 
+Assistant professor 
+Department of commerce 
+Bhavans Vivekananda college of science humanities and  commerce Sainikpuri Secunderabad Telangana 
+India 500094 
+2 Ms Muskan 
+B Com HonsBusiness Analytics Semester2 
+Bhavans Vivekananda college of science humanities and  commerce Sainikpuri Secunderabad Telangana 
+India 500094 
+ABRTRACT  
+Open network for digital commerce is a private nonprofit company established by the department for 
+promotion of industry  internal trade of government of India to develop open networks for  ecommerce 
+The government imposed Open Network Digital Commerce ONDC platform is expected to transform the 
+ecommerce landscape in India It will enable both consumers and sellers to engage and trade online regardless 
+of the app or platform they are using 
+This platform aims to brings in new opportunities checks digital monopolies and by supporting micro small 
+and medium enterprises and sole proprietor and help them get on online platforms It is an initiative provided 
+by the Department for Promotion of Industry and Internal Trade DPIIT under the Ministry of Commerce 
+and Industry 
+To complete this research Action research design is implied This paper is expected to give a brief overview 
+about ONDC It gives us the overall benefits for all the categorise consumer buyer tech platform Brief 
+data analysis of the digital commerce How is India progressing in the state of digital world 
+OPEN NETWORK FOR DIGITAL COMMERCEONDC 
+ INTRODUCTION   
+It is digital project which was first announced in 2020 and an advisory council was set up in July 2021 but 
+its implementation was done after ONDC was registered as a Section 8 nonprofit company on December 
+312021 The pilot has already started in Delhi Bengaluru Bhopal Shillong Coimbatore in April  
+ The network by itself would comprise participants from various domains ranging from retail logistics service 
+providers restaurants hotels caf etc who join ONDC as buyerside apps sellerside apps or gateway 
+ 
+ 
+ 
+ 2022 JETIR September 2022 Volume 9 Issue 9                                      wwwjetirorg ISSN23495162 
+JETIR220938
+3
+Journal of Emerging Technologies and Innovative Research JETIR wwwjetirorg 
+d329 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OBJECTIVES   
+ To get more information about ONDC 
+ Find the process of ONDC 
+ Precautions taken to cover the consequences  
+ Inclusivity  access for sellers especially small  medium enterprises as well as local business 
+ Data relating to digital marketing  
+ More choices  independency for consumers 
+ Ensured data privacy  confidentiality  
+ Decreased cost of operation 
+ Difficulty caused by different users  
+LIMITATIONS  
+ Information is restricted to the current data April 2022 
+ Values may change during the period of time 
+ As few information are kept confidential the data may be incomplete 
+LITERATURE REVIEW  
+A relevant article was written by A Shaji George Director Masters IT solutions Chennai Tamil Nadu 
+India AS Hovan George Masters IT solutions Chennai Tamil Nadu India The article name was Open 
+Network for Digital Commerce ONDC Democratizing Digital Commerce and curbing digital monopolies 
+in India This article main focus was to give brief information about Digital Commerce ONDC Open 
+Network for Digital Commerce COVID19 BusinesstoConsumer B2C digital commerce ecosystem 
+ONDC network Open network ONDC ECommerce  
+ 
+RESEARCH METHODOLOGY  
+As its research on a programme which was held recently primary collection is not possible so the entire 
+research is based on secondary data 
+Secondary data The methodology used was survey of information available on internet journal This gave 
+a broad overview about ONDC 
+ 
+Data Analysis  
+80 firms are currently working with the platform  are at different stages of integration The officials further 
+added that the platform plans to add 150 retailers in 5 cities during the pilot 
+ 2022 JETIR September 2022 Volume 9 Issue 9                                      wwwjetirorg ISSN23495162 
+JETIR220938
+3
+Journal of Emerging Technologies and Innovative Research JETIR wwwjetirorg 
+d330 
+ 
+Outlining ONDCS future plans Agrawal said Going forward the target of the ONDC is to onboard 3cr 
+sellers  1cr retail merchants online In the next step we want to go to 100 cities in 6 months 
+He also said that more local language support will be added to the app in the near future to expand the no of 
+buyers  sellers Apart from sellers  buyers logistics players  payment gateways will be part of ONDC 
+which has Infosys cofounder Nandan Nilekani former Mc Kinsey India head Adil Zainulbhaia National 
+Health Authority CEO Rs Sharma among others as key advisers 
+Currently there are more than 4000 small and big ecommerce companies in India 500 logistics companies 
+to deliver products and more than 20000 entities including travel and hotels that provide services through e
+market The Indian emarket is expected to grow to USD 200 billion by 2026 
+ 
+This open network will not be owned or controlled by a single application or platform and the idea behind it 
+is to bring buyers suppliers payment and logistics providers together through opensource specifications and 
+protocols ONDC will be created by unbundling breaking down of a complex system into granular activities 
+the current system  
+ 
+Benefits of ONDC 
+ 
+ 2022 JETIR September 2022 Volume 9 Issue 9                                      wwwjetirorg ISSN23495162 
+JETIR220938
+3
+Journal of Emerging Technologies and Innovative Research JETIR wwwjetirorg 
+d331 
+ 
+ DIFFICULTY WHICH COULD BE FACED 
+ Education of ecommerce  As most of the traders are from small scale industry which means they 
+could have very little or no information about emarket Which will 
+ make it difficult for them to access 
+ Responsible  If the product is late or the product got damaged due to some reason who will be 
+responsible for it Is it the buyer or the logistic Who will give the refund 
+ GST returns  As the buyer will be in profit and a lot of sales will be taking place which would make 
+buyer responsible to collect GST from buyers which may create a lot of confusion among the buyer 
+INTERPRENTATION  
+India is the 3rd largest retail market It was highest in 2018 Whereas ecommerce in India is still less 
+compared to others But growth rate is still higher compared to other country in the year 2019 it was 
+248  
+ 
+ 
+Even though the amount is less but the growth rate is higher compared to others 
+For sellers 
+For buyers 
+For tech platforms 
+Access to more buyers 
+Access to more sellers 
+Reduced timetomarket and 
+timetoscale 
+Better 
+discoverability 
+of 
+product 
+More product choices 
+New opportunities for start
+ups 
+Multiple choices for being 
+digitally visible 
+Better 
+services 
+ 
+faster 
+deliveries 
+Focus on niche aspects  
+Lower cost of doing business 
+Better consumer experience 
+ 
+More options for value chain 
+services 
+ 
+ 
+ 2022 JETIR September 2022 Volume 9 Issue 9                                      wwwjetirorg ISSN23495162 
+JETIR220938
+3
+Journal of Emerging Technologies and Innovative Research JETIR wwwjetirorg 
+d332 
+ 
+ 
+CONCLUSION  
+As the time is passing people are more interested surfing online instead of going out and looking for the 
+product 
+  
+Which means people look for easy way to get things done If ONDC is going as per it is planned it would be 
+a big revolution in the country just like the UPI system But if it doesnt work as it is planned there would a 
+drastic loss to the government of over 22 million 
+REFERENCES  
+WEBILOGY 
+  httpsyoutubebeK8XJOXNJuco 
+ httpsyoutubej6BI6FAMzv8 
+ httpsinc42com 
+ httpstimesofindiaindiatimescom 
+ httpspirimidtechcom 
+ httpschandlerngyencom 
+ httpseconomictimesindiatimescom 
+ httpsmediancmacom 
+View publication stats
