@@ -6,7 +6,12 @@ from weaviate.auth import AuthApiKey
 from groq import Groq
 import logging
 
+from flask_cors import CORS
+
 app = Flask(__name__)
+CORS(app)
+
+# app = Flask(__name__)
 
 # Load environment variables from .env file
 load_dotenv()
@@ -96,6 +101,7 @@ def filter_response(response):
 if __name__ == '__main__':
     # Run the Flask app
     app.run(debug=True)
+
 
 
 

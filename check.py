@@ -90,7 +90,7 @@ def check_stored_data():
     query = """
     {
         Get {
-            Article4 {
+            Testing1 {
                 content
                 _additional {
                     vector

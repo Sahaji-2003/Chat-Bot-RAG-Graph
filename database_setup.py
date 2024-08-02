@@ -26,7 +26,7 @@ logging.basicConfig(level=logging.DEBUG)
 # Define the Weaviate schema if it doesn't exist
 def create_schema():
     schema = {
-        "class": "Article4",
+        "class": "Article5",
         "vectorizer": "text2vec-jinaai",  # Specify the vectorizer at the top level
         "properties": [
             {
@@ -39,7 +39,7 @@ def create_schema():
         weaviate_client.schema.create_class(schema)
     except weaviate.exceptions.UnexpectedStatusCodeError as e:
         if e.status_code == 422:
-            logging.info("Class 'Article4' already exists.")
+            logging.info("Class 'Article5' already exists.")
         else:
             raise
 
@@ -57,7 +57,7 @@ def store_content_in_weaviate(content):
     try:
         weaviate_client.data_object.create({
             "content": content
-        }, "Article4")
+        }, "Article5")
     except weaviate.exceptions.UnexpectedStatusCodeError as e:
         logging.error(f"Failed to upload file: {e}")
 
