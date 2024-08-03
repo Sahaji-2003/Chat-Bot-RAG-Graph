@@ -48,10 +48,11 @@ def chat():
 
     try:
         response = weaviate_client.query.get("Article4", ["content"]) \
-                        .with_near_text({"concepts": [user_message]}) \
+                        .with_near_text({"concepts": [user_message]}).with_additional("vector") \
                         .with_limit(1) \
                         .do()
         logging.debug(f"Weaviate response: {response}")
+        # console.log({response})
         
         if 'errors' in response:
             logging.error(f"Failed to query Weaviate: {response['errors']}")
