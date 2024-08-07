@@ -31,7 +31,8 @@ def setup_and_index_pdfs(pdf_files, input_dir='./ragtest/input', root_dir='./rag
     # subprocess.run([venv_python, "-m", "graphrag.index", "--root", root_dir])
 
 if __name__ == '__main__':
-    pdf_files = ["database/ondc1.pdf", "database/ondc2.pdf"]  # Replace with your PDF file paths
+    # pdf_files = ["database/ondc1.pdf", "database/ondc2.pdf"]  # Replace with your PDF file paths
+    pdf_files = ["database/budget_speech.pdf"] 
     setup_and_index_pdfs(pdf_files)
 
 
