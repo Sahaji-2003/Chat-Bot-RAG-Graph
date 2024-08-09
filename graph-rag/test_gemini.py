@@ -103,7 +103,7 @@ chat = model.start_chat(history=[])
 def send_message_with_retry(chat, message, retries=3, delay=5):
     for attempt in range(retries):
         try:
-            response = chat.send_message(message)
+            response = chat.send_message(message) 
             return response
         except google.api_core.exceptions.InternalServerError as e:
             print(f"Error: {e}")
