@@ -1,12 +1,15 @@
 // src/App.js
 import React from 'react';
-import Chatbot from './components/Chatbot';
+import Chat from './components/Chatbot';
 import './App.css';
+import Chat_bot from './components/Chat_bot';
+import Chatbot from './components/Chatbot';
+import ChatComponent from './components/Chatcomponents';
 
 function App() {
     return (
         <div className="App">
-            <Chatbot />
+           <ChatComponent/>
         </div>
     );
 }

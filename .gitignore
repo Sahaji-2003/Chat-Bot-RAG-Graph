@@ -1,1 +1,102 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Python #
+######################
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+*.venv
+env/
 venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.installed.cfg
+*.so
+*.dylib
+*.py[cod]
+
+# Jupyter Notebooks #
+######################
+.ipynb_checkpoints/
+
+# Logs #
+######################
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports #
+######################
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Virtual Environments #
+######################
+*.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging #
+######################
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+*.cover
+
+# Editor files #
+######################
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Elasticsearch config files #
+##############################
+elasticsearch.yml
+logs/
+
+# Jina AI API keys #
+######################
+.jina_config
+
+# Jupyter Notebook #
+######################
+.ipynb_checkpoints/
