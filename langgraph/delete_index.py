@@ -7,7 +7,7 @@ load_dotenv()
 # Load environment variables
 ES_URL = os.getenv("ES_URL")
 ES_API_KEY = os.getenv("ES_API_KEY")
-INDEX_NAME = "my-jina-index-test"  # Replace with the name of the index you want to delete
+INDEX_NAME = "langchain_index_recursive_bge"  # Replace with the name of the index you want to delete
 
 # Initialize the Elasticsearch client
 es = Elasticsearch(
