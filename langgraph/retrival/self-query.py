@@ -16,7 +16,7 @@ ES_URL = os.getenv("ES_URL")
 ES_API_KEY = os.getenv("ES_API_KEY")
 groq_api_key = os.getenv("GROQ_API_KEY")
 # Initialize embeddings and vector store
-embeddings = JinaEmbeddings(jina_api_key="jina_49fbcc36861f46159e2250a6970078a7wLbbIieIp9Vxk1z9pQJ3yOmi-6El", model_name='jina-embeddings-v2-base-en')
+embeddings = JinaEmbeddings(jina_api_key=jina_api_key, model_name='jina-embeddings-v2-base-en')
 vectorstore = ElasticsearchStore(
     es_url=ES_URL,
     index_name="langchain_index_recursive4000",

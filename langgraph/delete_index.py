@@ -5,9 +5,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Load environment variables
-ES_URL = os.getenv("ES_URL")
-ES_API_KEY = os.getenv("ES_API_KEY")
-INDEX_NAME = "langchain_index_recursive_bge"  # Replace with the name of the index you want to delete
+# ES_URL = os.getenv("ES_URL")
+# ES_API_KEY = os.getenv("ES_API_KEY")
+ES_URL = "http://154.38.182.130:9200/"
+ES_API_KEY= "UDNJQlQ1QUJ3V2ZzVTRHWVptS1A6OXZCemhCeTBRUk9vVEd5eElDZlp5dw=="
+INDEX_NAME = "old_dominion"  # Replace with the name of the index you want to delete
 
 # Initialize the Elasticsearch client
 es = Elasticsearch(

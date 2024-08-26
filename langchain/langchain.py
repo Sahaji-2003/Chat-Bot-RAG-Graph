@@ -58,7 +58,7 @@ INAPPROPRIATE_KEYWORDS = ["inappropriate_word1", "inappropriate_word2"]  # Add a
 @app.route('/chat', methods=['POST'])
 def chat():
     user_message = request.json.get('message')
-
+    
     try:
         response = weaviate_client.query.get("Article5", ["content"]) \
                         .with_near_text({"concepts": [user_message]}) \
@@ -82,7 +82,7 @@ def chat():
     except Exception as e:
         logging.error(f"Failed to get response from Groq: {e}")
         return jsonify({"error": f"Failed to get response from Groq: {e}"}), 500
-
+    
     return jsonify({"response": bot_response})
 
 def get_groq_response(user_message, context_text):
@@ -106,7 +106,7 @@ def get_groq_response(user_message, context_text):
 def filter_response(response):
     for keyword in INAPPROPRIATE_KEYWORDS:
         if keyword in response:
-            return "I'm sorry, I cannot provide that information."
+            return " I'm sorry, I cannot provide that information."
     return response
 
 if __name__ == '__main__':

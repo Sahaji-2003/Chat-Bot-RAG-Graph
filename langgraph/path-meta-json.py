@@ -74,8 +74,8 @@ def save_metadata_to_json(metadata, output_file):
         json.dump(metadata, json_file, indent=4)
 
 if __name__ == "__main__":
-    root_folder = "one-folder" 
-    output_file = "pdf_metadata_2.json"
+    root_folder = "Old_Dominion" 
+    output_file = "OldDominion_metadata.json"
 
     metadata = extract_pdf_metadata(root_folder)
     save_metadata_to_json(metadata, output_file)
